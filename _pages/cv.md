@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+Please find attached a .pdf version of my [resume](http://tampi2002.github.io/files/cv.pdf).
 Education
 ======
 * Lycée Jeanne d'Arc, *Caen*, *France*, 

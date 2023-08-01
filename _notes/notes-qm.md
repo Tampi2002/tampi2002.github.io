@@ -5,10 +5,11 @@ type: ""
 permalink: /notes/notes-qm
 date: 2022-06-01
 modified: 2023-08-01
+share: false
 ---
 
 An introductory note to quantum mechanics and statistical physics.
-
+test
 This not was originally intended to help out students of CentraleSupélec in
 their first year. However, it has been refined and should be accessible to any
 student with some background of linear algebra and a basic comprehension of

@@ -3,7 +3,7 @@ title: "Teaching assistant in CIP/PDE, CentraleSupélec"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-ta
-venue: "University Paris-Saclay, CentraleSupélec"
+venue: "Université Paris-Saclay, CentraleSupélec"
 date: 2021-09-01
 location: "Paris, France"
 ---
