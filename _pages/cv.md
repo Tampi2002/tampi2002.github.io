@@ -13,7 +13,7 @@ Education
 ======
 * Lycée Jeanne d'Arc, *Caen*, *France*, 
 * CPGE Lycée Stanislas MPSI/MP*, *Paris*, *France* 2020
-* MScEng at CentraleSupélec, Université Paris-Scalay, 2024 (expected)
+* MEng at CentraleSupélec, Université Paris-Scalay, 2024 (expected)
 
 Work experience
 ======
