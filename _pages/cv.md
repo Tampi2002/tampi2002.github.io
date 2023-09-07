@@ -76,10 +76,10 @@ Technical skills
 
 * Programming :
   * Python (and its classical libraries)
-  * Basics of C++
+  * C++
   * LaTeX
   * ROOT (C++ CERN library)
-
+  * UNIX
 
 
 
@@ -96,4 +96,4 @@ Hobbies
 * Competitive chess player (1986 FIDE rating) and initiator 
 * Amateur player of racket sports (tennis, table tennis, badminton,...)
 * Huge fan of electro music
-* Begginner DJ
+* Beginner DJ
