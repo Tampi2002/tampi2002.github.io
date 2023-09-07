@@ -8,7 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
-Please find attached a .pdf version of my [resume](http://tampi2002.github.io/files/cv.pdf).
+Please find attached a .pdf version of my
+[resume](http://tampi2002.github.io/files/cv.pdf)
+
 Education
 ======
 * Lycée Jeanne d'Arc, *Caen*, *France*, 
@@ -38,14 +40,34 @@ experiment.
 - Dr. Matthias Saimpert,  *IRFU*, *DPhP*, *CEA-Saclay*
 - Dr. Anastaisia Kotsokechagia, Postdoctoral Research at *IRFU*, *DPhP*, *CEA-Saclay*
 
-Skills
+Technical skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Physics : 
+  * General classical physics (mechanics, fluid dynamics, electromagnetism,...)
+  * Quantum Mechanics
+  * Statistical Physics
+  * (Quantum) field theory
+  * General relativity 
+  * Standard Model and particle physics 
+  * Basics of string theory
+
+* Maths :
+  * General analysis (functions, sequences, ...)
+  * Groups, rings, fields theory
+  * Linear algebra
+  * Differential geometry
+  * Algebraic topology
+  * Representation theory 
+  * Lie groups and algebra
+  * Probabilities and statistics
+
+* Programming :
+  * Python (and its classical libraries)
+  * Basics of C++
+  * LaTeX
+  * ROOT (C++ CERN library)
+  
+
 
 
 Teaching
@@ -56,4 +78,9 @@ Teaching
   
 Hobbies
 ======
-* Currently signed in to 43 different slack teams
+* Theoretical and mathematical physics
+* Various topics in mathematics
+* Competitive chess player (1986 FIDE rating) and initiator 
+* Amateur player of racket sports (tennis, table tennis, badminton,...)
+* Huge fan of electro music
+* Begginner DJ

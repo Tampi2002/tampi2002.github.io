@@ -14,7 +14,7 @@ This not was originally intended to help out students of CentraleSupélec in
 their first year. However, it has been refined and should be accessible to any
 student with some background of linear algebra and a basic comprehension of
 physics (a bit of knowledge about electromagnetism should help to appreciate the
-full scop of this note).
+full scope of this note).
 
 The topics tackled are the basics of quantum mechanics, starting from an
 algebraic point of view and climbing our way up to the hydrogen atom, as well as
