@@ -22,6 +22,19 @@ Work experience
 
 Intern at FTX, DESY (February 2023-August 2023)
 ------
+Working on a HEP physics experiment called LEAP, to prove the possibility of
+creating a polaried electron beam using laser-plasma acceleration. 
+
+### Developped skills:
+- Electronics
+- Data analysis
+- Accelerator physics
+- C++ programming
+- Use and development of HEP DAQs
+  
+### Supervisors:
+- Dr. Louis Helary, *FTX*, *SLB*, *DESY*, Hamburg, Germany
+- Dr. Jenny List,  *FTX*, *SLB*, *DESY*, Hamburg, Germany
 
 
 Intern at IRFU, CEA-Saclay (July 2022-December 2022)
@@ -66,7 +79,7 @@ Technical skills
   * Basics of C++
   * LaTeX
   * ROOT (C++ CERN library)
-  
+
 
 
 
