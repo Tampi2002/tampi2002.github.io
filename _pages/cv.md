@@ -14,7 +14,7 @@ Please find attached a .pdf version of my
 Education
 ======
 * Lycée Jeanne d'Arc, *Caen*, *France*, 
-* CPGE Lycée Stanislas MPSI/MP*, *Paris*, *France* 2020
+* CPGE Lycée Stanislas MPSI/MP, *Paris*, *France* 2020
 * MEng at CentraleSupélec, Université Paris-Scalay, 2024 (expected)
 
 Work experience
