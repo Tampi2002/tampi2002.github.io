@@ -4,7 +4,8 @@ collection: work
 type: "Undergraduate course"
 permalink: /teaching/2021-ta
 venue: "Université Paris-Saclay, CentraleSupélec"
-date: 2021-09-01
+begin: 2021-09-01
+end: 
 location: "Paris, France"
 ---
 

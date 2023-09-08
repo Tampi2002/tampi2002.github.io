@@ -43,7 +43,13 @@
         {% elsif post.collection == 'publications' %}
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default:
           "1900-01-01" | date: "%Y" }} </p>
-          <p>Last modified <i>{{ post.venue }}</i>, {{ post.last_date | default: "1900-01-01" | date: "%Y" }} </p>
+          <p>Last modified <i>{{ post.venue }}</i>, {{ post.last_date | default:
+          "1900-01-01" | date: "%Y" }} </p>
+        {% elsif post.collection == 'work' %}
+          <p>Started working : <i>{{ post.venue }}</i>, {{ post.begin | default:
+          "1900-01-01" | date: "%Y" }} </p>
+          <p>Stopped working : <i>{{ post.venue }}</i>, {{ post.end |
+          default: "Still working" | date: "%Y" }} </p>
         {% elsif post.date %}
          <p class="page__date"><strong><i class="fa fa-fw fa-calendar"
          aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label |
