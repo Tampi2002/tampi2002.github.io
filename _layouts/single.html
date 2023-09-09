@@ -43,14 +43,14 @@ layout: default
           "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.collection == 'work' %}
         <p class="page__date"><strong><i class="fa fa-fw fa-calendar"
-          aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label |
-          default: "Stopped working:" }}</strong> <time datetime="{{ post.begin |
-          default: "1900-01-01" | date_to_xmlschema }}">{{ post.begin | default:
-          "1900-01-01" | date: "%B %d, %Y" }}</time></p>
+          aria-hidden="true"></i> {{ site.data.ui-text[site.locale].stop_work |
+          default: "Stopped working:" }}</strong> <time datetime="{{ post.end |
+          default: "" | date_to_xmlschema }}">{{ post.end | default:
+          "" | date: "%B %d, %Y" }}</time></p>
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar"
-           aria-hidden="true"></i> {{ site.data.ui-text[site.locale].last_date_label |
-           default: "Started working:" }}</strong> <time datetime="{{ post.end |
-           date_to_xmlschema }}">{{ post.end | default: "" | date: "%B
+           aria-hidden="true"></i> {{ site.data.ui-text[site.locale].start_work |
+           default: "Started working:" }}</strong> <time datetime="{{ post.begin |
+           date_to_xmlschema }}">{{ post.begin | default: "" | date: "%B
            %d, %Y" }}</time></p>
         {% elsif page.venue and page.date %}
           <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default:

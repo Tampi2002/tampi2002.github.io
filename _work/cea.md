@@ -1,11 +1,8 @@
 ---
 title: "Intern at CEA-Saclay"
 collection: work
-type: "Undergraduate course"
 permalink: /work/cea
-venue: "Université Paris-Saclay, CentraleSupélec"
 begin: 2021-09-01
-end: 
 location: "Paris, France"
 ---
 
