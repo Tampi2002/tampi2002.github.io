@@ -20,9 +20,9 @@ algebraic point of view and climbing our way up to the hydrogen atom, as well as
 an introduction to statistical physics at equilibrium, focusing on
 microcanonical and canonical ensembles.
 
-The notes can be found in both in
-[French](http://tampi2002.github.io/files/PhyQ.pdf) and in
-[English](http://tampi2002.github.io/files/QuantumPhys.pdf). The english
+The notes can be found in both
+[French](http://tampi2002.github.io/files/notes/PhyQ.pdf) and in
+[English](http://tampi2002.github.io/files/notes/QuantumPhys.pdf). The english
 translation might not be perfect.
 
 In case you notice any mistake or have any suggestions, please do email me. 
