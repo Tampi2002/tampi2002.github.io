@@ -9,8 +9,7 @@ share: false
 ---
 
 An introductory note to quantum mechanics and statistical physics.
-test
-This not was originally intended to help out students of CentraleSupélec in
+This note was originally intended to help out students of CentraleSupélec in
 their first year. However, it has been refined and should be accessible to any
 student with some background of linear algebra and a basic comprehension of
 physics (a bit of knowledge about electromagnetism should help to appreciate the
