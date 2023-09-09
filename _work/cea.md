@@ -2,7 +2,7 @@
 title: "Intern at CEA-Saclay"
 collection: work
 type: "Undergraduate course"
-permalink: /teaching/2021-ta
+permalink: /work/cea
 venue: "Université Paris-Saclay, CentraleSupélec"
 begin: 2021-09-01
 end: 
