@@ -1,14 +1,9 @@
 # main links links
-main:
-  - title: "Talks"
-    url: /talks/    
+main: 
 
   - title: "Teaching"
     url: /teaching/ 
-
-  - title: "Work"
-    url: /work/     
- 
+   
   - title: "CV"
     url: /cv/
   
