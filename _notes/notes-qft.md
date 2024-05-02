@@ -4,7 +4,7 @@ collection: teaching
 type: ""
 permalink: /notes/notes-qft
 date: 2022-09-09
-modified: 2023-09-09
+modified: 2024-05-02
 share: false
 ---
 
@@ -26,7 +26,7 @@ more advanced methods like path integrals. To this repect it is far from
 exhaustive but maybe it can be helpful to discover the topic at first. 
 
 The notes can be found in
-[French](http://tampi2002.github.io/files/notes/Quantificationcano.pdf) and in
+[French](http://tampi08122002.github.io/files/notes/Quantificationcano.pdf).
 I'm currently working on an english translation. 
 
 In case you notice any mistake or have any suggestions, please do email me. 
