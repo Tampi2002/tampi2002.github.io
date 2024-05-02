@@ -11,17 +11,17 @@ share: false
 This extremely short note is aimed at beginner students who wish to tackcle the
 topic of Quantum Mechanics. It puts the emphasize on the postulate of Quantum
 Mechanics and aims to draw a clear link between the formulation of Quantum
-Mechanics and linear algebra. \\
+Mechanics and linear algebra. 
 
 One should be familiar with basic linear algebra (matrix computations, vector
 spaces, scalar products, ...) in order to fully grasp the scope of this few
-pages. \\
+pages. 
 
 The postulates of quantum mechanics are formulated in a purely mathematical form
 (though not overly formal). The relationship between so called *observables* and
 *operators* and their *commutation relations* is particulary discussed. The
 probabilistic interpretation and the relations to physical measurements are
-exposed as well. \\
+exposed as well. 
 
 
 The note can be found in English [here](http://tampi08122002.github.io/files/notes/IntroPhyQ.pdf).
