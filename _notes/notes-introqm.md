@@ -23,6 +23,9 @@ The postulates of quantum mechanics are formulated in a purely mathematical form
 probabilistic interpretation and the relations to physical measurements are
 exposed as well. 
 
+It was written as part of a pedagogical activity in CentraleSupélec. I thank
+deeply by coauthor Pauline Mathiot, for her endeavours and her joyful
+collaboration on this project.
 
 The note can be found in English [here](http://tampi08122002.github.io/files/notes/IntroPhyQ.pdf).
 In case you notice any mistake or have any suggestions, please do email me. 

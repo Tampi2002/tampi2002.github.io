@@ -17,6 +17,8 @@ Mechanics, and should also emphasize on the Bloch description of electrons. This
 last assumpation shall help in many calculation using periodicty of the
 system.
 
+It was written for a course about light-matter interaction in CentraleSupélec.
+
 
 The note can be found in English [here](http://tampi08122002.github.io/files/notes/diffu.pdf).
 In case you notice any mistake or have any suggestions, please do email me. 

@@ -9,6 +9,10 @@
 <lastmod>2022-09-09T00:00:00-07:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/notes/notes-symQFT</loc>
+<lastmod>2024-05-02T00:00:00-07:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/notes/notes-diffu</loc>
 <lastmod>2024-05-02T00:00:00-07:00</lastmod>
 </url>
@@ -53,6 +57,14 @@
 <url>
 <loc>http://localhost:4000/publication/2015-10-01-paper-title-number-3</loc>
 <lastmod>2015-10-01T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/notes/notes-symQFT</loc>
+<lastmod>2024-05-02T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/notes/notes-symQFT</loc>
+<lastmod>2024-05-02T00:00:00-07:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/teaching/2021-ta</loc>
@@ -140,6 +152,10 @@
 <url>
 <loc>http://localhost:4000/files/notes/QuantumPhys.pdf</loc>
 <lastmod>2024-05-02T01:59:02-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/files/notes/SymQFT.pdf</loc>
+<lastmod>2024-05-02T06:38:27-07:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/files/notes/diffu.pdf</loc>
