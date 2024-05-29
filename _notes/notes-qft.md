@@ -1,5 +1,5 @@
 ---
-title: "Introduction to quantum field thoery"
+title: "Introduction to quantum field theory"
 collection: teaching
 type: ""
 permalink: /notes/notes-qft

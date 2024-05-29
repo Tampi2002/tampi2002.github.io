@@ -8,7 +8,7 @@ modified: 2024-05-02
 share: false
 ---
 
-These few pages represent an example on how one can use quantum mecahnics and
+These few pages represent an example on how one can use quantum mechanics and
 Fermi's golden rule to derive scattering amplitudes for certain processes.
 
 The chosen process is the scattering of a Bloch electrons using photons. This

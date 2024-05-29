@@ -8,7 +8,7 @@ modified: 2024-05-02
 share: false
 ---
 
-This extremely short note is aimed at beginner students who wish to tackcle the
+This extremely short note is aimed at beginner students who wish to tackle the
 topic of Quantum Mechanics. It puts the emphasize on the postulate of Quantum
 Mechanics and aims to draw a clear link between the formulation of Quantum
 Mechanics and linear algebra. 
@@ -24,7 +24,7 @@ probabilistic interpretation and the relations to physical measurements are
 exposed as well. 
 
 It was written as part of a pedagogical activity in CentraleSupélec. I thank
-deeply by coauthor Pauline Mathiot, for her endeavours and her joyful
+deeply my coauthor Pauline Mathiot, for her endeavours and her joyful
 collaboration on this project.
 
 The note can be found in English [here](http://tampipo.github.io/files/notes/IntroPhyQ.pdf).
