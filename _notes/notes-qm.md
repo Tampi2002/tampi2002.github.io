@@ -22,7 +22,7 @@ microcanonical and canonical ensembles.
 
 The notes can be found in both
 [French](http://tampipo.github.io/files/notes/PhyQ.pdf) and in
-[English](http://tampipo.github.io/files/notes/QuantumPhys.pdf). The english
+[English](http://tampipo.github.io/files/notes/QPhys.pdf). The english
 translation might not be perfect.
 
 In case you notice any mistake or have any suggestions, please do email me. 
