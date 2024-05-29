@@ -26,7 +26,7 @@ more advanced methods like path integrals. To this repect it is far from
 exhaustive but maybe it can be helpful to discover the topic at first. 
 
 The notes can be found in
-[French](http://tampipo.github.io/files/notes/Quantificationcano.pdf).
+[French](http://tampipo.github.io/files/notes/QCano.pdf).
 I'm currently working on an english translation. 
 
 In case you notice any mistake or have any suggestions, please do email me. 

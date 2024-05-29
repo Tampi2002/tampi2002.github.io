@@ -27,5 +27,5 @@ It was written as part of a pedagogical activity in CentraleSupélec. I thank
 deeply my coauthor Pauline Mathiot, for her endeavours and her joyful
 collaboration on this project.
 
-The note can be found in English [here](http://tampipo.github.io/files/notes/IntroPhyQ.pdf).
+The note can be found in English [here](http://tampipo.github.io/files/notes/IntroQM.pdf).
 In case you notice any mistake or have any suggestions, please do email me. 
