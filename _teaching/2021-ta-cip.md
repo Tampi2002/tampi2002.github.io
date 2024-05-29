@@ -6,6 +6,7 @@ permalink: /teaching/2021-ta
 venue: "Université Paris-Saclay, CentraleSupélec"
 date: 2021-09-01
 location: "Paris, France"
+share: false
 ---
 
 Teaching Assistant for Convergence-Integration-Probability (measure theory) and Partial

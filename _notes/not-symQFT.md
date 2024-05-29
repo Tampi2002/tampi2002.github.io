@@ -17,5 +17,5 @@ generators of the symmetry. An aside in String Theory is provided to explain how
 general the mathematical setup is. 
 
 
-The note can be found in English [here](http://tampi08122002.github.io/files/notes/SymQFT.pdf).
+The note can be found in English [here](http://tampipo.github.io/files/notes/SymQFT.pdf).
 In case you notice any mistake or have any suggestions, please do email me. 

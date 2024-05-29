@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 Please find attached a .pdf version of my
-[resume](http://tampi08122002.github.io/files/cv.pdf)
+[resume](http://tampipo.github.io/files/cv.pdf)
 
 Education
 ======

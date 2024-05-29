@@ -21,8 +21,8 @@ an introduction to statistical physics at equilibrium, focusing on
 microcanonical and canonical ensembles.
 
 The notes can be found in both
-[French](http://tampi08122002.github.io/files/notes/PhyQ.pdf) and in
-[English](http://tampi08122002.github.io/files/notes/QuantumPhys.pdf). The english
+[French](http://tampipo.github.io/files/notes/PhyQ.pdf) and in
+[English](http://tampipo.github.io/files/notes/QuantumPhys.pdf). The english
 translation might not be perfect.
 
 In case you notice any mistake or have any suggestions, please do email me. 
